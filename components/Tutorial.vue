@@ -10,6 +10,7 @@
         <h2 class="text-2xl leading-7 font-semibold">
           Welcome to your Nuxt Application
         </h2>
+        <p>hogehoge</p>
         <p class="mt-3 text-gray-600">
           We recommend you take a look at the <a href="https://nuxtjs.org" target="_blank" class="text-green-500 hover:underline">Nuxt documentation</a>, whether you are new or have previous experience with the framework.<br>
         </p>
